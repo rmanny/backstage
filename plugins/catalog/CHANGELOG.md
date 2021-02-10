@@ -1,5 +1,19 @@
 # @backstage/plugin-catalog
 
+## 0.3.1
+
+### Patch Changes
+
+- f5e564cd6: Improve display of error messages
+- 9230d07e7: Fix whitespace around variable in unregister error dialog box
+- Updated dependencies [72b96e880]
+- Updated dependencies [19d354c78]
+- Updated dependencies [b51ee6ece]
+  - @backstage/catalog-client@0.3.6
+  - @backstage/plugin-catalog-react@0.0.3
+  - @backstage/core@0.6.1
+  - @backstage/plugin-scaffolder@0.4.3
+
 ## 0.3.0
 
 ### Minor Changes

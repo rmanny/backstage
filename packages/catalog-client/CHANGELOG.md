@@ -1,5 +1,11 @@
 # @backstage/catalog-client
 
+## 0.3.6
+
+### Patch Changes
+
+- 72b96e880: Add the `presence` argument to the `CatalogApi` to be able to register optional locations.
+
 ## 0.3.5
 
 ### Patch Changes
